@@ -4,13 +4,19 @@
   "homepage": "https://radhikbhojani.github.io/nse-stock-analysis",
   "private": true,
   "dependencies": {
+    "@auth0/auth0-react": "^1.12.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.2.3",
+    "dexie": "^3.2.2",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0",
+    "react-detect-offline": "^2.4.5",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "rsuite": "^5.22.2",
+    "stock-nse-india": "^1.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

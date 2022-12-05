@@ -1,0 +1,754 @@
+[
+  {
+   "Scrip_Name": "AARTI INDUSTRIES LIMITED",
+   "scrip_id": "AARTIIND"
+  },
+  {
+   "Scrip_Name": "ABB INDIA LIMITED",
+   "scrip_id": "ABB"
+  },
+  {
+   "Scrip_Name": "ABBOTT INDIA LIMITED",
+   "scrip_id": "ABBOTINDIA"
+  },
+  {
+   "Scrip_Name": "ADITYA BIRLA CAPITAL LIMITED",
+   "scrip_id": "ABCAPITAL"
+  },
+  {
+   "Scrip_Name": "ADITYA BIRLA FASHION AND RETAIL LIMITED",
+   "scrip_id": "ABFRL"
+  },
+  {
+   "Scrip_Name": "ACC LIMITED",
+   "scrip_id": "ACC"
+  },
+  {
+   "Scrip_Name": "ADANI ENTERPRISES LIMITED",
+   "scrip_id": "ADANIENT"
+  },
+  {
+   "Scrip_Name": "ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED",
+   "scrip_id": "ADANIPORTS"
+  },
+  {
+   "Scrip_Name": "ALKEM LABORATORIES LIMITED",
+   "scrip_id": "ALKEM"
+  },
+  {
+   "Scrip_Name": "AMARA RAJA BATTERIES LIMITED",
+   "scrip_id": "AMARAJABAT"
+  },
+  {
+   "Scrip_Name": "AMBUJA CEMENTS LIMITED",
+   "scrip_id": "AMBUJACEM"
+  },
+  {
+   "Scrip_Name": "APOLLO HOSPITALS ENTERPRISE LIMITED",
+   "scrip_id": "APOLLOHOSP"
+  },
+  {
+   "Scrip_Name": "APOLLO TYRES LIMITED",
+   "scrip_id": "APOLLOTYRE"
+  },
+  {
+   "Scrip_Name": "ASHOK LEYLAND LIMITED",
+   "scrip_id": "ASHOKLEY"
+  },
+  {
+   "Scrip_Name": "ASIAN PAINTS LIMITED",
+   "scrip_id": "ASIANPAINT"
+  },
+  {
+   "Scrip_Name": "ASTRAL LIMITED",
+   "scrip_id": "ASTRAL"
+  },
+  {
+   "Scrip_Name": "ATUL LIMITED",
+   "scrip_id": "ATUL"
+  },
+  {
+   "Scrip_Name": "AU SMALL FINANCE BANK LIMITED",
+   "scrip_id": "AUBANK"
+  },
+  {
+   "Scrip_Name": "AUROBINDO PHARMA LIMITED",
+   "scrip_id": "AUROPHARMA"
+  },
+  {
+   "Scrip_Name": "AXIS BANK LIMITED",
+   "scrip_id": "AXISBANK"
+  },
+  {
+   "Scrip_Name": "BAJAJ AUTO LIMITED",
+   "scrip_id": "BAJAJ-AUTO"
+  },
+  {
+   "Scrip_Name": "BAJAJ FINSERV LIMITED",
+   "scrip_id": "BAJAJFINSV"
+  },
+  {
+   "Scrip_Name": "BAJAJ FINANCE LIMITED",
+   "scrip_id": "BAJFINANCE"
+  },
+  {
+   "Scrip_Name": "BALKRISHNA INDUSTRIES LIMITED",
+   "scrip_id": "BALKRISIND"
+  },
+  {
+   "Scrip_Name": "BALRAMPUR CHINI MILLS LIMITED",
+   "scrip_id": "BALRAMCHIN"
+  },
+  {
+   "Scrip_Name": "BANDHAN BANK LIMITED",
+   "scrip_id": "BANDHANBNK"
+  },
+  {
+   "Scrip_Name": "BANK OF BARODA",
+   "scrip_id": "BANKBARODA"
+  },
+  {
+   "Scrip_Name": "BATA INDIA LIMITED",
+   "scrip_id": "BATAINDIA"
+  },
+  {
+   "Scrip_Name": "BHARAT ELECTRONICS LIMITED",
+   "scrip_id": "BEL"
+  },
+  {
+   "Scrip_Name": "BERGER PAINTS (I) LIMITED",
+   "scrip_id": "BERGEPAINT"
+  },
+  {
+   "Scrip_Name": "BHARAT FORGE LIMITED",
+   "scrip_id": "BHARATFORG"
+  },
+  {
+   "Scrip_Name": "BHARTI AIRTEL LIMITED",
+   "scrip_id": "BHARTIARTL"
+  },
+  {
+   "Scrip_Name": "BHARAT HEAVY ELECTRICALS LIMITED",
+   "scrip_id": "BHEL"
+  },
+  {
+   "Scrip_Name": "BIOCON LIMITED",
+   "scrip_id": "BIOCON"
+  },
+  {
+   "Scrip_Name": "BOSCH LIMITED",
+   "scrip_id": "BOSCHLTD"
+  },
+  {
+   "Scrip_Name": "BHARAT PETROLEUM CORPORATION LIMITED",
+   "scrip_id": "BPCL"
+  },
+  {
+   "Scrip_Name": "BRITANNIA INDUSTRIES LIMITED",
+   "scrip_id": "BRITANNIA"
+  },
+  {
+   "Scrip_Name": "BIRLASOFT LIMITED",
+   "scrip_id": "BSOFT"
+  },
+  {
+   "Scrip_Name": "CANARA BANK",
+   "scrip_id": "CANBK"
+  },
+  {
+   "Scrip_Name": "CAN FIN HOMES LIMITED",
+   "scrip_id": "CANFINHOME"
+  },
+  {
+   "Scrip_Name": "CHAMBAL FERTILIZERS &amp; CHEMICALS LIMITED",
+   "scrip_id": "CHAMBLFERT"
+  },
+  {
+   "Scrip_Name": "CHOLAMANDALAM INVESTMENT AND FINANCE COMPANY LIMITED",
+   "scrip_id": "CHOLAFIN"
+  },
+  {
+   "Scrip_Name": "CIPLA LIMITED",
+   "scrip_id": "CIPLA"
+  },
+  {
+   "Scrip_Name": "COAL INDIA LIMITED",
+   "scrip_id": "COALINDIA"
+  },
+  {
+   "Scrip_Name": "COFORGE LIMITED",
+   "scrip_id": "COFORGE"
+  },
+  {
+   "Scrip_Name": "COLGATE PALMOLIVE (INDIA) LIMITED",
+   "scrip_id": "COLPAL"
+  },
+  {
+   "Scrip_Name": "CONTAINER CORPORATION OF INDIA LIMITED",
+   "scrip_id": "CONCOR"
+  },
+  {
+   "Scrip_Name": "COROMANDEL INTERNATIONAL LIMITED",
+   "scrip_id": "COROMANDEL"
+  },
+  {
+   "Scrip_Name": "CROMPTON GREAVES CONSUMER ELECTRICALS LIMITED",
+   "scrip_id": "CROMPTON"
+  },
+  {
+   "Scrip_Name": "CITY UNION BANK LIMITED",
+   "scrip_id": "CUB"
+  },
+  {
+   "Scrip_Name": "CUMMINS INDIA LIMITED",
+   "scrip_id": "CUMMINSIND"
+  },
+  {
+   "Scrip_Name": "DABUR INDIA LIMITED",
+   "scrip_id": "DABUR"
+  },
+  {
+   "Scrip_Name": "DALMIA BHARAT LIMITED",
+   "scrip_id": "DALBHARAT"
+  },
+  {
+   "Scrip_Name": "DEEPAK NITRITE LIMITED",
+   "scrip_id": "DEEPAKNI"
+  },
+  {
+   "Scrip_Name": "DELTA CORP LIMITED",
+   "scrip_id": "DELTACORP"
+  },
+  {
+   "Scrip_Name": "DIVI'S LABORATORIES LIMITED",
+   "scrip_id": "DIVISLAB"
+  },
+  {
+   "Scrip_Name": "DIXON TECHNOLOGIES (INDIA) LIMITED",
+   "scrip_id": "DIXON"
+  },
+  {
+   "Scrip_Name": "DLF LIMITED",
+   "scrip_id": "DLF"
+  },
+  {
+   "Scrip_Name": "DR. REDDY'S LABORATORIES LIMITED",
+   "scrip_id": "DRREDDY"
+  },
+  {
+   "Scrip_Name": "EICHER MOTORS LIMITED",
+   "scrip_id": "EICHERMOT"
+  },
+  {
+   "Scrip_Name": "ESCORTS KUBOTA LIMITED",
+   "scrip_id": "ESCORTS"
+  },
+  {
+   "Scrip_Name": "EXIDE INDUSTRIES LIMITED",
+   "scrip_id": "EXIDEIND"
+  },
+  {
+   "Scrip_Name": "THE FEDERAL BANKÃ† LIMITED",
+   "scrip_id": "FEDERALBNK"
+  },
+  {
+   "Scrip_Name": "FIRSTSOURCE SOLUTIONS LIMITED",
+   "scrip_id": "FSL"
+  },
+  {
+   "Scrip_Name": "GAIL (INDIA) LIMITED",
+   "scrip_id": "GAIL"
+  },
+  {
+   "Scrip_Name": "GLENMARK PHARMACEUTICALS LIMITED",
+   "scrip_id": "GLENMARK"
+  },
+  {
+   "Scrip_Name": "GMR INFRASTRUCTURE LIMITED",
+   "scrip_id": "GMRINFRA"
+  },
+  {
+   "Scrip_Name": "GUJARAT NARMADA VALLEY FERTILIZERS AND CHEMICALS LIMITED",
+   "scrip_id": "GNFC"
+  },
+  {
+   "Scrip_Name": "GODREJ CONSUMER PRODUCTS LIMITED",
+   "scrip_id": "GODREJCP"
+  },
+  {
+   "Scrip_Name": "GODREJ PROPERTIES LIMITED",
+   "scrip_id": "GODREJPROP"
+  },
+  {
+   "Scrip_Name": "GRANULES INDIA LIMITED",
+   "scrip_id": "GRANULES"
+  },
+  {
+   "Scrip_Name": "GRASIM INDUSTRIES LIMITED",
+   "scrip_id": "GRASIM"
+  },
+  {
+   "Scrip_Name": "HINDUSTAN AERONAUTICS LIMITED",
+   "scrip_id": "HAL"
+  },
+  {
+   "Scrip_Name": "HAVELLS INDIA LIMITED",
+   "scrip_id": "HAVELLS"
+  },
+  {
+   "Scrip_Name": "HCL TECHNOLOGIES LIMITED",
+   "scrip_id": "HCLTECH"
+  },
+  {
+   "Scrip_Name": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED",
+   "scrip_id": "HDFC"
+  },
+  {
+   "Scrip_Name": "HDFC ASSET MANAGEMENT COMPANY LIMITED",
+   "scrip_id": "HDFCAMC"
+  },
+  {
+   "Scrip_Name": "HDFC BANK LIMITED",
+   "scrip_id": "HDFCBANK"
+  },
+  {
+   "Scrip_Name": "HDFC LIFE INSURANCE COMPANY LIMITED",
+   "scrip_id": "HDFCLIFE"
+  },
+  {
+   "Scrip_Name": "HERO MOTOCORP LIMITED",
+   "scrip_id": "HEROMOTOCO"
+  },
+  {
+   "Scrip_Name": "HINDALCO INDUSTRIES LIMITED",
+   "scrip_id": "HINDALCO"
+  },
+  {
+   "Scrip_Name": "HINDUSTAN COPPER LIMITED",
+   "scrip_id": "HINDCOPPER"
+  },
+  {
+   "Scrip_Name": "HINDUSTAN PETROLEUM CORPORATION LIMITED",
+   "scrip_id": "HINDPETRO"
+  },
+  {
+   "Scrip_Name": "HINDUSTAN UNILEVER LIMITED",
+   "scrip_id": "HINDUNILVR"
+  },
+  {
+   "Scrip_Name": "HONEYWELL AUTOMATION INDIA LIMITED",
+   "scrip_id": "HONAUT"
+  },
+  {
+   "Scrip_Name": "INDIABULLS HOUSING FINANCE LIMITED",
+   "scrip_id": "IBULHSGFIN"
+  },
+  {
+   "Scrip_Name": "ICICI BANK LIMITED",
+   "scrip_id": "ICICIBANK"
+  },
+  {
+   "Scrip_Name": "ICICI LOMBARD GENERAL INSURANCE COMPANY LIMITED",
+   "scrip_id": "ICICIGI"
+  },
+  {
+   "Scrip_Name": "ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED",
+   "scrip_id": "ICICIPRULI"
+  },
+  {
+   "Scrip_Name": "VODAFONE IDEA LIMITED",
+   "scrip_id": "IDEA"
+  },
+  {
+   "Scrip_Name": "IDFC LIMITED",
+   "scrip_id": "IDFC"
+  },
+  {
+   "Scrip_Name": "IDFC FIRST BANK LIMITED",
+   "scrip_id": "IDFCFIRSTB"
+  },
+  {
+   "Scrip_Name": "INDIAN ENERGY EXCHANGE LIMITED",
+   "scrip_id": "IEX"
+  },
+  {
+   "Scrip_Name": "THE INDIAN HOTELS COMPANY LIMITED",
+   "scrip_id": "INDHOTEL"
+  },
+  {
+   "Scrip_Name": "THE INDIA CEMENTS LIMITED",
+   "scrip_id": "INDIACEM"
+  },
+  {
+   "Scrip_Name": "INDIAMART INTERMESH LIMITED",
+   "scrip_id": "INDIAMART"
+  },
+  {
+   "Scrip_Name": "INTERGLOBE AVIATION LIMITED",
+   "scrip_id": "INDIGO"
+  },
+  {
+   "Scrip_Name": "INDUSIND BANK LIMITED",
+   "scrip_id": "INDUSINDBK"
+  },
+  {
+   "Scrip_Name": "INDUS TOWERS LIMITED",
+   "scrip_id": "INDUSTOWER"
+  },
+  {
+   "Scrip_Name": "INFOSYS LIMITED",
+   "scrip_id": "INFY"
+  },
+  {
+   "Scrip_Name": "INTELLECT DESIGN ARENA LIMITED",
+   "scrip_id": "INTELLECT"
+  },
+  {
+   "Scrip_Name": "INDIAN OIL CORPORATION LIMITED",
+   "scrip_id": "IOC"
+  },
+  {
+   "Scrip_Name": "IPCA LABORATORIES LIMITED",
+   "scrip_id": "IPCALAB"
+  },
+  {
+   "Scrip_Name": "INDIAN RAILWAY CATERING AND TOURISM CORPORATION LIMITED",
+   "scrip_id": "IRCTC"
+  },
+  {
+   "Scrip_Name": "ITC LIMITED",
+   "scrip_id": "ITC"
+  },
+  {
+   "Scrip_Name": "JINDAL STEEL &amp; POWER LIMITED",
+   "scrip_id": "JINDALSTEL"
+  },
+  {
+   "Scrip_Name": "JK CEMENT LIMITED",
+   "scrip_id": "JKCEMENT"
+  },
+  {
+   "Scrip_Name": "JSW STEEL LIMITED",
+   "scrip_id": "JSWSTEEL"
+  },
+  {
+   "Scrip_Name": "JUBILANT FOODWORKS LIMITED",
+   "scrip_id": "JUBLFOOD"
+  },
+  {
+   "Scrip_Name": "KOTAK MAHINDRA BANK LIMITED",
+   "scrip_id": "KOTAKBANK"
+  },
+  {
+   "Scrip_Name": "L&amp;T FINANCE HOLDINGS LIMITED",
+   "scrip_id": "L&amp;TFH"
+  },
+  {
+   "Scrip_Name": "DR. LAL PATH LABS LTD.",
+   "scrip_id": "LALPATHLAB"
+  },
+  {
+   "Scrip_Name": "LAURUS LABS LIMITED",
+   "scrip_id": "LAURUSLABS"
+  },
+  {
+   "Scrip_Name": "LIC HOUSING FINANCE LIMITED",
+   "scrip_id": "LICHSGFIN"
+  },
+  {
+   "Scrip_Name": "LARSEN &amp; TOUBRO LIMITED",
+   "scrip_id": "LT"
+  },
+  {
+   "Scrip_Name": "LARSEN &amp; TOUBRO INFOTECH LIMITED",
+   "scrip_id": "LTI"
+  },
+  {
+   "Scrip_Name": "L&amp;T TECHNOLOGY SERVICES LIMITED",
+   "scrip_id": "LTTS"
+  },
+  {
+   "Scrip_Name": "LUPIN LIMITED",
+   "scrip_id": "LUPIN"
+  },
+  {
+   "Scrip_Name": "MAHINDRA &amp; MAHINDRA LIMITED",
+   "scrip_id": "M&amp;M"
+  },
+  {
+   "Scrip_Name": "MAHINDRA &amp; MAHINDRA FINANCIAL SERVICES LIMITED",
+   "scrip_id": "M&amp;MFIN"
+  },
+  {
+   "Scrip_Name": "MANAPPURAM FINANCE LIMITED",
+   "scrip_id": "MANAPPURAM"
+  },
+  {
+   "Scrip_Name": "MARICO LIMITED",
+   "scrip_id": "MARICO"
+  },
+  {
+   "Scrip_Name": "MARUTI SUZUKI INDIA LIMITED",
+   "scrip_id": "MARUTI"
+  },
+  {
+   "Scrip_Name": "MULTI COMMODITY EXCHANGE OF INDIA LIMITED",
+   "scrip_id": "MCX"
+  },
+  {
+   "Scrip_Name": "METROPOLIS HEALTHCARE LIMITED",
+   "scrip_id": "METROPOLIS"
+  },
+  {
+   "Scrip_Name": "MAX FINANCIAL SERVICES LIMITED",
+   "scrip_id": "MFSL"
+  },
+  {
+   "Scrip_Name": "MAHANAGAR GAS LIMITED",
+   "scrip_id": "MGL"
+  },
+  {
+   "Scrip_Name": "SAMVARDHANA MOTHERSON INTERNATIONAL LIMITED",
+   "scrip_id": "MOTHERSON"
+  },
+  {
+   "Scrip_Name": "MPHASIS LIMITED",
+   "scrip_id": "MPHASIS"
+  },
+  {
+   "Scrip_Name": "MRF LIMITED",
+   "scrip_id": "MRF"
+  },
+  {
+   "Scrip_Name": "MUTHOOT FINANCE LIMITED",
+   "scrip_id": "MUTHOOTFIN"
+  },
+  {
+   "Scrip_Name": "NATIONAL ALUMINIUM COMPANY LIMITED",
+   "scrip_id": "NATIONALUM"
+  },
+  {
+   "Scrip_Name": "INFO EDGE (INDIA) LIMITED",
+   "scrip_id": "NAUKRI"
+  },
+  {
+   "Scrip_Name": "NAVIN FLUORINE INTERNATIONAL LIMITED",
+   "scrip_id": "NAVINFLUOR"
+  },
+  {
+   "Scrip_Name": "NESTLE INDIA LIMITED",
+   "scrip_id": "NESTLEIND"
+  },
+  {
+   "Scrip_Name": "NMDC LIMITED",
+   "scrip_id": "NMDC"
+  },
+  {
+   "Scrip_Name": "NTPC LIMITED",
+   "scrip_id": "NTPC"
+  },
+  {
+   "Scrip_Name": "OBEROI REALTY LIMITED",
+   "scrip_id": "OBEROIRLTY"
+  },
+  {
+   "Scrip_Name": "ORACLE FINANCIAL SERVICES SOFTWARE LIMITED",
+   "scrip_id": "OFSS"
+  },
+  {
+   "Scrip_Name": "OIL &amp; NATURAL GAS CORPORATION LIMITED",
+   "scrip_id": "ONGC"
+  },
+  {
+   "Scrip_Name": "PAGE INDUSTRIES LIMITED",
+   "scrip_id": "PAGEIND"
+  },
+  {
+   "Scrip_Name": "PIRAMAL ENTERPRISES LIMITED",
+   "scrip_id": "PEL"
+  },
+  {
+   "Scrip_Name": "PERSISTENT SYSTEMS LIMITED",
+   "scrip_id": "PERSISTENT"
+  },
+  {
+   "Scrip_Name": "PETRONET LNG LIMITED",
+   "scrip_id": "PETRONET"
+  },
+  {
+   "Scrip_Name": "POWER FINANCE CORPORATION LIMITED",
+   "scrip_id": "PFC"
+  },
+  {
+   "Scrip_Name": "PIDILITE INDUSTRIES LIMITED",
+   "scrip_id": "PIDILITIND"
+  },
+  {
+   "Scrip_Name": "PI INDUSTRIES LIMITED",
+   "scrip_id": "PIIND"
+  },
+  {
+   "Scrip_Name": "POLYCAB INDIA LIMITED",
+   "scrip_id": "POLYCAB"
+  },
+  {
+   "Scrip_Name": "POWER GRID CORPORATION OF INDIA LIMITED",
+   "scrip_id": "POWERGRID"
+  },
+  {
+   "Scrip_Name": "PVR LIMITED",
+   "scrip_id": "PVR"
+  },
+  {
+   "Scrip_Name": "RAIN INDUSTRIES LIMITED",
+   "scrip_id": "RAIN"
+  },
+  {
+   "Scrip_Name": "THE RAMCO CEMENTS LIMITED",
+   "scrip_id": "RAMCOCEM"
+  },
+  {
+   "Scrip_Name": "RBL BANK LIMITED",
+   "scrip_id": "RBLBANK"
+  },
+  {
+   "Scrip_Name": "REC LIMITED",
+   "scrip_id": "RECLTD"
+  },
+  {
+   "Scrip_Name": "RELIANCE INDUSTRIES LIMITED",
+   "scrip_id": "RELIANCE"
+  },
+  {
+   "Scrip_Name": "STEEL AUTHORITY OF INDIA LIMITED",
+   "scrip_id": "SAIL"
+  },
+  {
+   "Scrip_Name": "SBI CARDS AND PAYMENT SERVICES LIMITED",
+   "scrip_id": "SBICARD"
+  },
+  {
+   "Scrip_Name": "SBI LIFE INSURANCE COMPANY LIMITED",
+   "scrip_id": "SBILIFE"
+  },
+  {
+   "Scrip_Name": "STATE BANK OF INDIA",
+   "scrip_id": "SBIN"
+  },
+  {
+   "Scrip_Name": "SHREE CEMENT LIMITED",
+   "scrip_id": "SHREECEM"
+  },
+  {
+   "Scrip_Name": "SIEMENS LIMITED",
+   "scrip_id": "SIEMENS"
+  },
+  {
+   "Scrip_Name": "SRF LIMITED",
+   "scrip_id": "SRF"
+  },
+  {
+   "Scrip_Name": "SHRIRAM TRANSPORT FINANCE COMPANY LIMITED",
+   "scrip_id": "SRTRANSFIN"
+  },
+  {
+   "Scrip_Name": "SUN PHARMACEUTICAL INDUSTRIES LIMITED",
+   "scrip_id": "SUNPHARMA"
+  },
+  {
+   "Scrip_Name": "SUN TV NETWORK LIMITED",
+   "scrip_id": "SUNTV"
+  },
+  {
+   "Scrip_Name": "SYNGENE INTERNATIONAL LIMITED",
+   "scrip_id": "SYNGENE"
+  },
+  {
+   "Scrip_Name": "TATA CHEMICALS LIMITED",
+   "scrip_id": "TATACHEM"
+  },
+  {
+   "Scrip_Name": "TATA COMMUNICATIONS LIMITED",
+   "scrip_id": "TATACOMM"
+  },
+  {
+   "Scrip_Name": "TATA CONSUMER PRODUCTS LIMITED",
+   "scrip_id": "TATACONSUM"
+  },
+  {
+   "Scrip_Name": "TATA MOTORS LIMITED",
+   "scrip_id": "TATAMOTORS"
+  },
+  {
+   "Scrip_Name": "TATA POWER COMPANY LIMITED",
+   "scrip_id": "TATAPOWER"
+  },
+  {
+   "Scrip_Name": "TATA STEEL LIMITED",
+   "scrip_id": "TATASTEEL"
+  },
+  {
+   "Scrip_Name": "TATA CONSULTANCY SERVICES LIMITED",
+   "scrip_id": "TCS"
+  },
+  {
+   "Scrip_Name": "TECH MAHINDRA LIMITED",
+   "scrip_id": "TECHM"
+  },
+  {
+   "Scrip_Name": "TITAN COMPANY LIMITED",
+   "scrip_id": "TITAN"
+  },
+  {
+   "Scrip_Name": "TORRENT PHARMACEUTICALS LIMITED",
+   "scrip_id": "TORNTPHARM"
+  },
+  {
+   "Scrip_Name": "TORRENT POWER LIMITED",
+   "scrip_id": "TORNTPOWER"
+  },
+  {
+   "Scrip_Name": "TRENT LIMITED",
+   "scrip_id": "TRENT"
+  },
+  {
+   "Scrip_Name": "TVS MOTOR COMPANY LIMITED",
+   "scrip_id": "TVSMOTOR"
+  },
+  {
+   "Scrip_Name": "UNITED BREWERIES LIMITED",
+   "scrip_id": "UBL"
+  },
+  {
+   "Scrip_Name": "ULTRATECH CEMENT LIMITED",
+   "scrip_id": "ULTRACEMCO"
+  },
+  {
+   "Scrip_Name": "UPL LIMITED",
+   "scrip_id": "UPL"
+  },
+  {
+   "Scrip_Name": "VEDANTA LIMITED",
+   "scrip_id": "VEDL"
+  },
+  {
+   "Scrip_Name": "VOLTAS LIMITED",
+   "scrip_id": "VOLTAS"
+  },
+  {
+   "Scrip_Name": "WHIRLPOOL OF INDIA LIMITED",
+   "scrip_id": "WHIRLPOOL"
+  },
+  {
+   "Scrip_Name": "WIPRO LIMITED",
+   "scrip_id": "WIPRO"
+  },
+  {
+   "Scrip_Name": "ZEE ENTERTAINMENT ENTERPRISES LIMITED",
+   "scrip_id": "ZEEL"
+  },
+  {
+   "Scrip_Name": "ZYDUS LIFESCIENCES LIMITED",
+   "scrip_id": "ZYDUSLIFE"
+  }
+ ]
