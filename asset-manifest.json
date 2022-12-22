@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nse-stock-analysis/static/css/main.be04e2ec.css",
-    "main.js": "/nse-stock-analysis/static/js/main.a730b3e7.js",
+    "main.js": "/nse-stock-analysis/static/js/main.28deb0d3.js",
     "static/js/787.8cd7c364.chunk.js": "/nse-stock-analysis/static/js/787.8cd7c364.chunk.js",
     "static/media/fa-solid-900.svg": "/nse-stock-analysis/static/media/fa-solid-900.a84653d4fe0072d182b6.svg",
     "static/media/fa-brands-400.svg": "/nse-stock-analysis/static/media/fa-brands-400.55faa7ef298ebafcc322.svg",
@@ -22,11 +22,11 @@
     "index.html": "/nse-stock-analysis/index.html",
     "static/media/hamburger.svg": "/nse-stock-analysis/static/media/hamburger.bf9c727cfcf560e08424676e7c3375b7.svg",
     "main.be04e2ec.css.map": "/nse-stock-analysis/static/css/main.be04e2ec.css.map",
-    "main.a730b3e7.js.map": "/nse-stock-analysis/static/js/main.a730b3e7.js.map",
+    "main.28deb0d3.js.map": "/nse-stock-analysis/static/js/main.28deb0d3.js.map",
     "787.8cd7c364.chunk.js.map": "/nse-stock-analysis/static/js/787.8cd7c364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be04e2ec.css",
-    "static/js/main.a730b3e7.js"
+    "static/js/main.28deb0d3.js"
   ]
 }
