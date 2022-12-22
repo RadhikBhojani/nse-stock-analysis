@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nse-stock-analysis/static/css/main.6e6749d7.css",
-    "main.js": "/nse-stock-analysis/static/js/main.b11f5a9d.js",
+    "main.css": "/nse-stock-analysis/static/css/main.be04e2ec.css",
+    "main.js": "/nse-stock-analysis/static/js/main.a730b3e7.js",
     "static/js/787.8cd7c364.chunk.js": "/nse-stock-analysis/static/js/787.8cd7c364.chunk.js",
     "static/media/fa-solid-900.svg": "/nse-stock-analysis/static/media/fa-solid-900.a84653d4fe0072d182b6.svg",
     "static/media/fa-brands-400.svg": "/nse-stock-analysis/static/media/fa-brands-400.55faa7ef298ebafcc322.svg",
@@ -21,12 +21,12 @@
     "static/media/fa-regular-400.woff2": "/nse-stock-analysis/static/media/fa-regular-400.5fab4ed5c3745c12c7e1.woff2",
     "index.html": "/nse-stock-analysis/index.html",
     "static/media/hamburger.svg": "/nse-stock-analysis/static/media/hamburger.bf9c727cfcf560e08424676e7c3375b7.svg",
-    "main.6e6749d7.css.map": "/nse-stock-analysis/static/css/main.6e6749d7.css.map",
-    "main.b11f5a9d.js.map": "/nse-stock-analysis/static/js/main.b11f5a9d.js.map",
+    "main.be04e2ec.css.map": "/nse-stock-analysis/static/css/main.be04e2ec.css.map",
+    "main.a730b3e7.js.map": "/nse-stock-analysis/static/js/main.a730b3e7.js.map",
     "787.8cd7c364.chunk.js.map": "/nse-stock-analysis/static/js/787.8cd7c364.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e6749d7.css",
-    "static/js/main.b11f5a9d.js"
+    "static/css/main.be04e2ec.css",
+    "static/js/main.a730b3e7.js"
   ]
 }
