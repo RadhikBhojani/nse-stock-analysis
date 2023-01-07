@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/nse-stock-analysis/static/css/main.be04e2ec.css",
-    "main.js": "/nse-stock-analysis/static/js/main.00e0c980.js",
+    "main.js": "/nse-stock-analysis/static/js/main.fe7d5eb2.js",
     "static/js/787.8cd7c364.chunk.js": "/nse-stock-analysis/static/js/787.8cd7c364.chunk.js",
     "static/media/fa-solid-900.svg": "/nse-stock-analysis/static/media/fa-solid-900.a84653d4fe0072d182b6.svg",
     "static/media/fa-brands-400.svg": "/nse-stock-analysis/static/media/fa-brands-400.55faa7ef298ebafcc322.svg",
     "static/media/fa-solid-900.eot": "/nse-stock-analysis/static/media/fa-solid-900.a0b3c6d0d774520787d8.eot",
     "static/media/fa-solid-900.ttf": "/nse-stock-analysis/static/media/fa-solid-900.8618686494a5c8092120.ttf",
     "static/media/fa-regular-400.svg": "/nse-stock-analysis/static/media/fa-regular-400.fa5f132deb163050a148.svg",
+    "static/media/stock_back_1.png": "/nse-stock-analysis/static/media/stock_back_1.d96496ebd88640661126.png",
     "static/media/fa-brands-400.eot": "/nse-stock-analysis/static/media/fa-brands-400.3825c40fd00d9bbb76b7.eot",
     "static/media/fa-brands-400.ttf": "/nse-stock-analysis/static/media/fa-brands-400.1437eef49e3db661f92c.ttf",
     "static/media/logo.png": "/nse-stock-analysis/static/media/logo.c97d0c5cbfce3a35862c.png",
@@ -15,18 +16,22 @@
     "static/media/fa-brands-400.woff": "/nse-stock-analysis/static/media/fa-brands-400.e1c1a88e6228f902435e.woff",
     "static/media/fa-brands-400.woff2": "/nse-stock-analysis/static/media/fa-brands-400.9a01a31d6767f82529dc.woff2",
     "static/media/fa-solid-900.woff2": "/nse-stock-analysis/static/media/fa-solid-900.0f27e9b933cc50abbbba.woff2",
+    "static/media/stock-analysis-3.svg": "/nse-stock-analysis/static/media/stock-analysis-3.493012f3970c17d2adde810c65d294cb.svg",
+    "static/media/stock-analysis-2.svg": "/nse-stock-analysis/static/media/stock-analysis-2.00fb002ac866f8e5d508bd4d13e5a24d.svg",
     "static/media/fa-regular-400.eot": "/nse-stock-analysis/static/media/fa-regular-400.eb99d5076e8ce45ccfa1.eot",
     "static/media/fa-regular-400.ttf": "/nse-stock-analysis/static/media/fa-regular-400.814c2c571f030686e71c.ttf",
+    "static/media/stock-analysis-5.jpeg": "/nse-stock-analysis/static/media/stock-analysis-5.41fb649e8ad9a4cbff4a.jpeg",
     "static/media/fa-regular-400.woff": "/nse-stock-analysis/static/media/fa-regular-400.acdccc059cdf7b4063e9.woff",
+    "static/media/stock-analysis-4.svg": "/nse-stock-analysis/static/media/stock-analysis-4.451a36cef449442b89ec8633b146ee8b.svg",
     "static/media/fa-regular-400.woff2": "/nse-stock-analysis/static/media/fa-regular-400.5fab4ed5c3745c12c7e1.woff2",
     "index.html": "/nse-stock-analysis/index.html",
     "static/media/hamburger.svg": "/nse-stock-analysis/static/media/hamburger.bf9c727cfcf560e08424676e7c3375b7.svg",
     "main.be04e2ec.css.map": "/nse-stock-analysis/static/css/main.be04e2ec.css.map",
-    "main.00e0c980.js.map": "/nse-stock-analysis/static/js/main.00e0c980.js.map",
+    "main.fe7d5eb2.js.map": "/nse-stock-analysis/static/js/main.fe7d5eb2.js.map",
     "787.8cd7c364.chunk.js.map": "/nse-stock-analysis/static/js/787.8cd7c364.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be04e2ec.css",
-    "static/js/main.00e0c980.js"
+    "static/js/main.fe7d5eb2.js"
   ]
 }
