@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Ocean of Money - NSE Stock Analysis Website
+![Ocean of Money Logo](https://radhikbhojani.github.io/nse-stock-analysis/static/media/logo.c97d0c5cbfce3a35862c.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Visit the website: [Ocean of Money](https://radhikbhojani.github.io/nse-stock-analysis/) 
+Ocean of Money is a stock analysis website that provides detailed information and analysis for stocks listed on the National Stock Exchange (NSE). This repository contains the code for the Ocean of Money stock analysis MERN (MongoDB, Express.js, React.js, Node.js) stack application with Auth0 authentication and Google Script for retrieving data.
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+Ocean of Money aims to provide users with a comprehensive platform to analyze NSE stocks. With this application, users can gain insights into stock data, perform technical analysis, and make informed investment decisions. The application is built using the MERN stack, which provides a robust and scalable architecture for developing web applications.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **User Authentication**: The application uses Auth0 for user authentication, allowing users to create accounts, log in, and securely access their personalized stock analysis.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **NSE Stock Data**: The application fetches stock data from the National Stock Exchange, providing real-time information about various stocks. This data includes historical prices, volume, market cap, and other relevant metrics.
 
-### `npm test`
+- **Technical Analysis**: Ocean of Money provides users with a range of technical analysis tools to analyze stock performance. These tools include moving averages, relative strength index (RSI), MACD (Moving Average Convergence Divergence), and more.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Customizable Watchlist**: Users can create and manage their watchlist, adding stocks they are interested in and monitoring their performance. The watchlist allows users to keep track of their favorite stocks and receive personalized updates.
 
-### `npm run build`
+# Technologies
+The Ocean of Money stock analysis application is built using the following technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ReactJS: A popular JavaScript library for building user interfaces. ReactJS provides a component-based architecture and efficient rendering, making it ideal for creating dynamic and interactive web applications.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Bootstrap: A front-end framework that provides a set of pre-styled components and utilities. Bootstrap simplifies the process of creating responsive and visually appealing user interfaces.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- MongoDB: A NoSQL database that uses a document-oriented model for data storage. MongoDB is utilized for storing and retrieving stock data, user information, and other relevant data in Ocean of Money.
 
-### `npm run eject`
+- Auth0: A flexible and secure authentication and authorization platform. Auth0 is used for user authentication in the application, providing a seamless login experience and ensuring data privacy.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ - Google Script: A cloud-based JavaScript platform that allows for the creation and automation of Google Apps. In Ocean of Money, Google Script is utilized to retrieve data from external sources and integrate it into the application.
